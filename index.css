@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(231, 226, 226) ;
+}
+p{
+    color: blue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+
+}
+
+div{
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
